@@ -1,0 +1,14 @@
+﻿OrderID,ClientID,Gender,ProductNo,UnitPrice,Class,OrderQuantity,Inventory
+Order-1,A001,M,P3,10000,clothes,1,yes
+Order-2,A001,F,P3,10000,clothes,4,yes
+Order-3,A001,M,P4,20000,clothes,5,no
+Order-4,A002,F,P1,30000,clothes,2,yes
+Order-5,A003,F,P2,25000,stationery,3,yes
+Order-6,A004,M,P1,30000,clothes,6,yes
+Order-7,A005,F,P5,50000,clothes,7,yes
+Order-8,A001,M,P4,20000,clothes,-5,no
+Order-9,A006,F,P9,40000,stuff,3,yes
+Order-10,A005,F,P8,15000,clothes,7,yes
+Order-11,A002,F,P8,15000,clothes,2,yes
+Order-12,A004,M,P4,20000,clothes,6,no
+Order-13,A004,M,P4,20000,clothes,-6,no
